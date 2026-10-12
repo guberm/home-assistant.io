@@ -2088,6 +2088,6 @@ actions:
     enabled: !input input_boolean
 ```
 
-[conditions page]: /docs/scripts/conditions/
+[conditions page]: /conditions/
 [shorthand-template]: /conditions/template/#shorthand-notation
 [script variables]: /integrations/script/#variables
